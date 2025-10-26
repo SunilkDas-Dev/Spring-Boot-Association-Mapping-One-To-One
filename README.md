@@ -19,3 +19,6 @@ The project includes full CRUD operations and has been tested with multiple deve
 ---
 
 ## 🏗️ Project Structure  
+
+The project follows a standard Spring Boot directory layout for easy scalability and maintenance.
+
